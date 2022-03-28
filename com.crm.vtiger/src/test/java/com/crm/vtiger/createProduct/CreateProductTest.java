@@ -6,5 +6,16 @@ public class CreateProductTest {
 @Test
 public void createproduct() {
 	System.out.println("product successfully created");
-}
+	
+	
+	                            
+	System.out.println("product updated");
+	}
+
+
+                                                                                                                                    
+
+
+
+
 }
