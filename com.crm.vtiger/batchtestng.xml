@@ -3,7 +3,10 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+      <class name="com.crm.vtiger.create_contact.CreateContactwithOrganizationTest"/>
       <class name="com.crm.vtiger.createProduct.CreateProductTest"/>
+      <class name="com.crm.vtiger.create_contact.CreateContactTest"/>
+      <class name="com.crm.vtiger.create_contact.CreateTest"/>
       <class name="com.crm.vtiger.createProduct.CampaignwithProductTest"/>
     </classes>
   </test> <!-- Test -->
